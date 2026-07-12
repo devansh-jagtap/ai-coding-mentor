@@ -1,0 +1,9 @@
+.venv/
+# Python bytecode cache folders
+__pycache__/
+
+# Individual compiled files (just in case)
+*.pyc
+*.pyo
+*.pyd
+.env
